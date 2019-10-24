@@ -1,0 +1,107 @@
+html,body {
+  width: 100%;
+  height: 100%;
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
+.App {
+  width: 100%;
+  height: 100%;
+}
+.Login {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571660280145&di=7de3851677b412ebc2f46a259d353926&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-11-30%2F5a1fb44c6676d.jpg') center no-repeat;
+}
+
+.login {
+  width: 400px;
+  height: 300px;
+  /* background: skyblue; */
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+
+.ant-input-affix-wrapper {
+  width: 250px !important;
+}
+/* .login-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+} */
+.login h2 {
+  /* margin: 40px 0 30px 0; */
+  margin-bottom: 30px;
+}
+.ant-btn-block {
+  width: 250px !important;
+}
+
+.Form {
+  width: 100%;
+  height: 100%;
+}
+.menu {
+  height: 100%;
+  float: left;
+}
+.ant-menu-inline {
+  height: 100% !important;
+}
+.content {
+  margin-left: 255px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.Info {
+  width: 100%;
+  height: 100%;
+}
+.Questionnaire {
+  width: 100%;
+  padding: 10px 10px 20px 10px;
+}
+.Questionnaire h2 {
+  text-align: center;
+  color: green;
+  margin-bottom: 10px;
+}
+
+.antd-pro-charts-pie-pie {
+  height: 400px !important;
+  width: 750px;
+}
+.antd-pro-charts-pie-pie .antd-pro-charts-pie-chart {
+  height: 400px !important;
+}
+.antd-pro-charts-pie-pie>div>div>div>div {
+  height: 400px !important;
+  position: absolute !important;
+  padding-top: 50px;
+}
+.QandA {
+  margin-left: 10px;
+}
+textarea {
+  width: 600px !important;
+}
+
+.ant-col-sm-16 {
+    width: 100% !important;
+}
+
+.ant-col-sm-offset-8 {
+  margin-left: 0 !important;
+}
